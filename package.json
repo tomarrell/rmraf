@@ -1,8 +1,9 @@
 {
-  "name": "rrr",
-  "version": "0.1.0",
+  "name": "rmraf",
+  "version": "0.1.1",
   "description": "Rimraf Roulette",
   "main": "cli.js",
+  "repository": "https://github.com/tomarrell/rmraf",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,7 @@
     "roulette",
     "cli"
   ],
-  "author": "",
+  "author": "Tom Arrell <me@tomarrell.com> (https://github.com/tomarrell)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.2",
