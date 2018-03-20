@@ -1,9 +1,12 @@
 {
   "name": "rmraf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rimraf Roulette",
   "main": "cli.js",
   "repository": "https://github.com/tomarrell/rmraf",
+  "bin": {
+    "rmraf": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
