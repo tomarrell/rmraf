@@ -1,12 +1,32 @@
-# Rmraf Roulette
-Need a touch of risk in your life? Forced to pull the trigger on a big decision?
+# Rmraf Roulette :gun:
+Keen to live on the edge? Want the taste of Roulette in your work life? Well I've got good news for you! Introducing, Rmraf Roulette. The most fun lazy way to play Roulette, while still being able to play with fire.
 
-TRY RIMRAF ROULETTE TODAY!
+Like Russian Roulette, but with your root directory under the gun.
+
+TRY RMRAF ROULETTE TODAY!
 
 ## Features
+- Keep your root directory on its toes, play with its literal life
+- Confirmation, to make sure you know the gravity of the situation you're getting yourself in
+- Choose your own odds with customizable chance
+- Pseudo sound effects
+
+## Installation
+```
+npm i -g rmraf
+```
 
 ## Usage
+```
+rmraf [chance] [flags]
+```
+
+Parameters:
+- **chance**: define your own roulette odds, 1/chance of winning the grand prize
+
+Flags:
+- **--now, -n**: play NOW!
 
 ## License
-MIT, should probably add a nice disclaimer in there again for good measure.
+MIT, should probably add a nice big disclaimer in there again for good measure.
 
