@@ -1,0 +1,23 @@
+{
+  "name": "rrr",
+  "version": "0.1.0",
+  "description": "Rimraf Roulette",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rm",
+    "rf",
+    "roulette",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "meow": "^4.0.0",
+    "prompt": "^1.0.0",
+    "prompts": "^0.1.8"
+  }
+}
