@@ -1,6 +1,6 @@
 # Rmraf Roulette :gun:
 
-*NB: Please do not run this is you are not willing to risk loss of data. This **WILL** attempt to unlink files if you lose the odds.*
+:exclamation:*NB: Please do not run this is you are not willing to risk loss of data. This **WILL** attempt to unlink files if you lose the odds.*:exclamation:
 
 Keen to live on the edge? Want the taste of Roulette in your work life? Well I've got good news for you! Introducing, Rmraf Roulette. The most fun lazy way to play Roulette, while still being able to play with fire.
 
@@ -14,12 +14,12 @@ TRY RMRAF ROULETTE TODAY!
 - Choose your own odds with customizable chance
 - Pseudo sound effects
 
-## Installation
+## Installation :gear:
 ```
 npm i -g rmraf
 ```
 
-## Usage
+## Usage :bomb:
 ```
 rmraf [chance] [flags]
 ```
