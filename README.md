@@ -8,7 +8,7 @@ Like Russian Roulette, but with your root directory under the gun.
 
 TRY RMRAF ROULETTE TODAY!
 
-## Features
+## Features :star:
 - Keep your root directory on its toes, play with its literal existence
 - Confirmation, to make sure you know the gravity of the situation you're getting yourself in
 - Choose your own odds with customizable chance
